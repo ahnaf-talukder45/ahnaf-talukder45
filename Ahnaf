@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ahnaf Talukder Itmam - Your Information Hub</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            overflow: hidden;
+        }
+        h1 {
+            margin-top: 0;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            background: #eee;
+            margin: 5px 0;
+            padding: 10px;
+            border-left: 5px solid #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ahnaf Talukder Itmam</h1>
+        <p>Your Hub for Information and Knowledge</p>
+    </header>
+    <section class="container">
+        <h2>Welcome</h2>
+        <p>Hello! I'm Ahnaf Talukder Itmam, and my mission is to provide you with the information you seek. Whether it's historical events, important dates, or answers to your questions, I'm here to help you navigate through knowledge.</p>
+        
+        <h2>Historical Timeline</h2>
+        <p>Explore key historical events and their timelines:</p>
+        <ul>
+            <li><strong>476 AD:</strong> Fall of the Western Roman Empire</li>
+            <li><strong>1492:</strong> Christopher Columbus discovers the Americas</li>
+            <li><strong>1776:</strong> Declaration of Independence in the United States</li>
+            <li><strong>1914-1918:</strong> World War I</li>
+            <li><strong>1939-1945:</strong> World War II</li>
+            <li><strong>1969:</strong> First Moon Landing by Apollo 11</li>
+            <li><strong>1989:</strong> Fall of the Berlin Wall</li>
+            <li><strong>2001:</strong> September 11 Attacks</li>
+        </ul>
+
+        <h2>Need Information?</h2>
+        <p>If you need information on a specific topic, feel free to reach out! I'm here to assist you.</p>
+    </section>
+</body>
+</html>
